@@ -8,18 +8,4 @@ Arguments is
     
     - path to output file name of .las file with curbs points
 
-packages:
-
-  os
-  
-  math
-  
-  laspy>=2.0.0
-  
-  sys
-  
-  datetime
-  
-  plyfile
-  
-  numpy
+packages:os, math, laspy>=2.0.0, sys, datetime, plyfile, numpy
